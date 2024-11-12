@@ -12,4 +12,5 @@ public class Move {
     public Disc disc(){
         return disc;
     }
+
 }
