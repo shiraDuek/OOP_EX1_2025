@@ -8,9 +8,6 @@ public class GameLogic implements PlayableLogic{
     private boolean turn=true;
 
 
-    public Player player;
-
-
 
     @Override
     public boolean locate_disc(Position a, Disc disc) {
